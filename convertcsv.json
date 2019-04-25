@@ -2,19 +2,11 @@
     "quoteJsonDatas": [
         {
             "index": 651,
-            "quote": "Perfection is finally attained not when there is no longer anything to add, but when there is no longer anything to take away.",
-            "author": "Antoine de Saint Exupéry",
-            "type": "Inspirational",
-            "about_author": "Antoine Marie Jean-Baptiste Roger, comte de Saint-Exupéry (29 June 1900 – 31 July 1944) was a French writer, poet, aristocrat, journalist, and pioneering aviator. He became a laureate of several of France's highest literary awards and also won the U.S. National Book Award. He is best remembered for his novella The Little Prince (Le Petit Prince) and for his lyrical aviation writings, including Wind, Sand and Stars and Night Flight.",
-            "wikilink": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exupéry"
+
         },
         {
             "index": 652,
-            "quote": "Where do new ideas come from? The answer is simple: differences. Creativity comes from unlikely juxtapositions.",
-            "author": "Nicholas Negroponte",
-            "type": "Inspirational",
-            "about_author": "Nicholas Negroponte (born December 1, 1943) is a Greek American architect. He is the founder and Chairman Emeritus of Massachusetts Institute of Technology's Media Lab, and also founded the One Laptop per Child Association (OLPC).",
-            "wikilink": "https://en.wikipedia.org/wiki/Nicholas_Negroponte"
+
         },
     ]
 }
